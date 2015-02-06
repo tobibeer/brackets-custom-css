@@ -1,0 +1,5 @@
+.sidebar .jstree-brackets li a,
+.sidebar .jstree-brackets li a:hover,
+#outline-list li{
+font-size: 18px;
+}
