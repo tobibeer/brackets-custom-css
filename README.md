@@ -2,8 +2,8 @@
 
 Simply modify and apply custom css styles to brackets ui...
 
-1. open **help > extensions folder*
-2. go to **tobibeer.brackets-custom-css**
+1. open **help / extensions folder*
+2. go to **user / tobibeer.brackets-custom-css**
 3. open **styles.css**
     * use F12 (developer tools) to inspect brackets and find elements / styles
 	* add desired styles
