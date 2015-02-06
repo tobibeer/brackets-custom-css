@@ -1,6 +1,6 @@
 ### brackets-custom-css
 
-Here's a no-voodoo extension that does what it says and only that.
+Here's a no-voodoo extension that does what it says and only that.<br>
 Simply modify and apply custom css styles to brackets ui...
 
 1. open **help / extensions folder**
