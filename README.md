@@ -13,3 +13,5 @@ Simply modify and apply custom css styles to brackets ui...
 5. repeat until satisfied
 
 Default styles increase sidebar and outline font size a wee bit.
+
+This extension will be gone when a theme-independent [user stylesheet](https://github.com/adobe/brackets/issues/10548) can be defined for brackets.ui.
